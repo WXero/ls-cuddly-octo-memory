@@ -1,0 +1,4 @@
+files = [ 'stream/*' ]
+
+[meta]
+'stream/downtown_vinewood/los_santos_freeway.ymt' = "SCENARIO_POINTS_OVERRIDE_FILE"
