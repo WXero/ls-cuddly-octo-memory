@@ -8,4 +8,4 @@ files {
     'stream/downtown_vinewood/los_santos_freeway.ymt',
 }
 
-data_file 'SCENARIO_POINTS_OVERRIDE_FILE' 'los_santos_freeway.ymt' --VINEWOOD SCENARIOS
+data_file 'SCENARIO_POINTS_OVERRIDE_FILE' 'stream/downtown_vinewood/los_santos_freeway.ymt' --VINEWOOD SCENARIOS
